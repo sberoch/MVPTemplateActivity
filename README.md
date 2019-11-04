@@ -1,7 +1,5 @@
 # MVPTemplateActivity
 
-MVP Template para Android Studio (sin Dagger).
+MVP Template for Android Studio (sin Dagger).
 
-Compuesto por: Contrato, Actividad, Presentador, Interactor
-
-Importante: Recordar crear el layout XML para la actividad y agregar al manifest
+Creates the following files: Contract, Activity, Presenter, Interaction
