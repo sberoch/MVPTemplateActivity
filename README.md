@@ -1,5 +1,5 @@
 # MVPTemplateActivity
 
-MVP Template for Android Studio (sin Dagger).
+MVP Template for Android Studio (without Dagger).
 
 Creates the following files: Contract, Activity, Presenter, Interaction
